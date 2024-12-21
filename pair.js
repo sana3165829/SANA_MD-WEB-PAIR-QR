@@ -77,20 +77,32 @@ router.get('/', async (req, res) => {
 
                     // Send confirmation message
                     await GlobalTechInc.sendMessage(userJid, { text: `
-*SESSION GENERATED SUCCESSFULY* ✅
-
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-KHAN
-
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Tohid_Tech
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
-
-
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/Tohidkhan_6332
-
-*TOHID-KHAN--WHATTSAPP-BOT* 🥀
+*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
+Use the session Id Above to
+deploy your Bot.
+╔════◇
+║『 *YOU'VE CHOSEN SANA_MD-V1* 』
+║ You've Completed the First Step
+║ to Deploy a Whatsapp Bot.
+╚════════════════╝
+╔═════◇
+║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/923337468951
+║
+║❒ 𝐑𝐞𝐩𝐨: https://github.com/sana3165829/SANA_MD-V1
+║
+║❒ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/+stt8ar-B4HY5NTM0
+║
+║❒ 𝐓𝐠𝐆𝐫𝐨𝐮𝐩: https://t.me/+stt8ar-B4HY5NTM0
+║
+║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/Tohidkhan_6332
+║
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/LeBiXG4qogMAzecpriyjgV
+║
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VagcqzY1XquemrHOM51n
+║ 💜💜💜
+╚════════════════╝
+*Don't Forget To Give Star⭐ To My Repo*
 ` });
 
                     // Clean up session after use
